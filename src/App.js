@@ -1,5 +1,7 @@
-import './App.css';
+import '@fontsource/bigelow-rules';
 import {Component} from "react";
+
+import './App.css';
 import CardListComponent from "./components/card-list/card-list.component";
 
 class App extends Component {
